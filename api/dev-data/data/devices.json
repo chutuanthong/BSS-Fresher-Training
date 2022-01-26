@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "TV",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 20
+  },
+  {
+    "id": 2,
+    "name": "Washer",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 50
+  },
+  {
+    "id": 3,
+    "name": "audiotape",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 70
+  },
+  {
+    "id": 4,
+    "name": "battery",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 60
+  },
+  {
+    "id": 5,
+    "name": "camera",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 80
+  },
+  {
+    "id": 6,
+    "name": "CDplayer",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 90
+  },
+  {
+    "id": 7,
+    "name": "radio",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 100
+  },
+  {
+    "id": 8,
+    "name": "turntable",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 20
+  },
+  {
+    "id": 9,
+    "name": "Selling Fan",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 30
+  },
+  {
+    "id": 10,
+    "name": "Refrigerator",
+    "macAddress": "admin@natours.io",
+    "ip": "admin",
+    "date": "02-03-2000",
+    "power": 40
+  }
+]
